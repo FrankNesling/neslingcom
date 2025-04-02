@@ -1,0 +1,28 @@
+Home -> what is it
+Portfolio -> list of coding projects 
+	-> JavaScript (JS, TS, React, Express/Node.js), Python, C#/.NET (Unity), Java, DevOps (Kubernetes, Azure, GitLab, GitHub, CI/CD), C/C++,
+	Android App (Kotlin, Flutter, Xamarin/MAUI), iOS App (Swift), Database (CRM D365 + PowerApps, CMS, MySQL),
+	Linux (Ubuntu, Fedora, Raspberry Pi), Theoretisches (ETHZ Fächer: IML, Compiler, Graphics, Networking), MATLAB, R
+
+About -> Team or Me => includes link to my travelling
+Contact -> Email pls ;)
+
+
+
+
+
+
+
+Webdevelopment -> Websiten in JS, TS, Razor & React, simples JS (PDF Merger, Games)
+API -> C# API, php (Authentication), "Express.js/Node.js"
+Desktop App Development -> Python Skripte, Java, C, 
+Mobile App Development -> Android: Flutter, Unity/C#, Xamarin/MAUI/C#, Kotlin, Java; iOS: Swift
+DevOps, CI/CD and Cloud Infrastructure -> GitHub, GitLab, Azure, Kubernetes, Docker
+Databases -> D365 CRM, CMSs, MySQL
+Computing -> Bachelor Thesis, Photogrammetry C++, Python Infrastructure
+Theoretical -> ETHZ IML, ETHZ Compiler, ETHZ Visual Computing, 
+	ETHZ Design of Digital Circuits (Links to two books), ETHZ Computer Networks (Link to book), 
+	Mathematik (Analysis, Stochastik, Lineare Algebra, Theoretische Informatik, Diskrete Mathematik),
+	Informatik (Information Security, Formal Methods, Functional Programming -> Haskell Link, Algorithmen + Datenstrukturen, Paralleles Programmieren, Databases, C Programming, Datacenter)
+	Elektrotechnik + Physik + Neuroinformatics, Blockchain + Quantencomputer
+Extra Bits -> MATLAB, R; Linux: Ubuntu, Fedora, Raspberry Pi, ML Projekte
